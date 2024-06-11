@@ -1,1 +1,5 @@
-Solutions to tasks on networking basics part 2.
+This project seeks to achieve an understanding of the following:
+What is localhost/127.0.0.1
+What is 0.0.0.0
+What is /etc/hosts
+How to display your machine’s active network interfaces
